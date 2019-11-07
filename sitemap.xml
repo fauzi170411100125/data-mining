@@ -11,6 +11,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/wknn/</loc>
+     <lastmod>2019-11-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/admonition/</loc>
      <lastmod>2019-11-07</lastmod>
      <changefreq>daily</changefreq>
